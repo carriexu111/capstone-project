@@ -125,7 +125,7 @@ Some comments for this model:
 * Since the model's test accuracy (0.85) is decently close to the training accuracy, we would say that there is a small "variance" between the training accuracy and the test accuracy. This is an indication that the model will "generalize well", which means that the model will be well-behaved when new data is presented to it.
 * Overfitting in this model is diminished.
 
-### Descion Tree
+### Decision Tree
 
 <img width="1103" alt="Screen Shot 2023-02-14 at 9 14 02 PM" src="https://user-images.githubusercontent.com/115129335/218938464-bc3ee084-0491-499f-bfdc-50030dbd0ba0.png">
 
